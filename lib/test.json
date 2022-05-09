@@ -1,0 +1,976 @@
+{
+  "data": {
+    "info": {
+      "firstBanner": "public/banner/SsPsQv-Cn7.jpg",
+      "secondBanner": "public/banner/uvJab88e2h.jpg",
+      "thirdBanner": "public/banner/Bgf9Pir9po.jpg",
+      "badge": false,
+      "deliveryChargeInsideDhaka": 70,
+      "deliveryChargeOutsideDhaka": 125,
+      "appVersionCode": "3",
+      "appVersionName": "1.0.2",
+      "androidUpdateMandatory": true,
+      "iosUpdateMandatory": false,
+      "appStoreUrl": "",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.b2gsoft.kamae",
+      "_id": "6124e1f9757ed8298cf5eb23",
+      "name": "Kamae",
+      "email": "support@kamae.com",
+      "phone": "+8801322876981",
+      "aboutUs": "We are online store at your doorstep with various goods that you need. We have been serving our customers with every possible product that you wish for. JMC.Shopping stands for integrity, respect and excellence. We took responsibility of our customers and follow our ethics to keep their trust. JMC.Shopping works with intelligence to make you shopping smooth and swift. We believe together we can unite and form a best online platform for your necessity with honesty and best qualities. Hope you have a good experience shopping with us. Let us know about your experience.",
+      "address": "453,Road-6, Avenue-6, Mirpur DOHS",
+      "facebook": "www.facebook.com",
+      "instagram": "www.instagram.com",
+      "logo": "public/logo.png",
+      "invoiceLogo": "public/invoiceLogo.png",
+      "sliders": [
+        {
+          "_id": "61eebd622ab99c9fc68d21ed",
+          "image": "public/slider/OHAI7hph.jpg",
+          "slug": "http://kamae.lovesbd.com/"
+        }
+      ],
+      "footerLogo": "public/banner/hQC2vBSnenaJduKy9J01q.jpg",
+      "topLogo": "public/banner/9b72iI_19eN_bNDoktkwj.jpg",
+      "termsPrivacyAbout": {
+        "termsAndCondition": "<p>Terms &amp; Condition</p>",
+        "privacyPolicy": "<h2><strong style=\"color: rgb(255, 153, 0);\">PRIVACY POLICY</strong></h2><p><br></p><p><br></p><h2><span style=\"color: rgb(51, 51, 51);\">1. Introduction</span></h2><p><br></p><p><span style=\"color: rgb(51, 51, 51);\">Welcome to kamae.app!</span></p><p><span style=\"color: rgb(51, 51, 51);\">This Privacy Policy was written to help you better understand how we collect, use and store your information. Since technology and privacy laws are always changing, we may occasionally update this policy. If a significant change is made, we will be sure to post a notice on our home page and in the merchant admin. If you continue to use kamae.app after these changes are posted, you agree to the revised policy.</span></p><p><span style=\"color: rgb(51, 51, 51);\">By signing up for any of the products or services offered by kamae.app (together, the \"Services\"), or dealing with a merchant using kamae.app Services, you are agreeing to the terms of this Privacy Policy and, as applicable, the kamae Terms of Service . This policy is a legally binding agreement between you (and your client, employer or another entity if you are acting on their behalf) as the user of the Services (referred to as \"you\" or \"your\") and kamae Inc. (referred to as \"we\", \"our\", \"us\" or \"kamae\"). If we add any new features or tools to our Services, they will also be subject to this policy.</span></p><p><span style=\"color: rgb(51, 51, 51);\">We will keep your Personal Information accurate, complete and up-to-date with the information that you provide to us. If you request access to your Personal Information, we will inform you of the existence, use and disclosure of your Personal Information as allowed by law, and provide you access to that information.</span></p><p><span style=\"color: rgb(51, 51, 51);\">When we use the term </span><strong style=\"color: rgb(51, 51, 51);\">\"Personal Information\"</strong><span style=\"color: rgb(51, 51, 51);\"> in this policy, it means any information related to an identifiable individual, but does not include the name, title, business address, or telephone number of an employee of an organization.</span></p><p><br></p><h2><span style=\"color: rgb(51, 51, 51);\">2. Information from merchants</span></h2><p><br></p><p><span style=\"color: rgb(51, 51, 51);\">Privacy matters! If you are a merchant, you agree to post a privacy policy on your storefront that complies with the laws applicable to your business. You also agree to obtain consent from your customers for the use and access of their Personal Information by Skamae and other third parties.</span></p><p><span style=\"color: rgb(51, 51, 51);\">What information do we collect from merchants and why?</span></p><p><span style=\"color: rgb(51, 51, 51);\">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We collect your name, company name, address, email address, phone number(s) and credit card details.</span></p><p><span style=\"color: rgb(51, 51, 51);\">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We need this information to provide you with our Services, for example, to confirm your identity, contact you, and invoice you.</span></p><p><span style=\"color: rgb(51, 51, 51);\">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We collect data about the kamae.app -hosted webpages that you visit and how and when you access your account, including information about the device and browser you use, your network connection and your IP address.</span></p><p><span style=\"color: rgb(51, 51, 51);\">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We need this information to give you access to and improve our Services.</span></p><p><span style=\"color: rgb(51, 51, 51);\">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We collect Personal Information about your customers that you share with us or that customers provide while shopping or during checkout.</span></p><p><span style=\"color: rgb(51, 51, 51);\">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We use this information to provide you with our Services and so that you can process orders and better serve your customers.</span></p><p><span style=\"color: rgb(51, 51, 51);\">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We will also use Personal Information in other cases where you have given us your express permission.</span></p><p><span style=\"color: rgb(51, 51, 51);\">When do we collect this information?</span></p><p><span style=\"color: rgb(51, 51, 51);\">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We collect Personal Information when you sign up for our Services, when you access our Services or otherwise provide us with the information.</span></p><p><br></p><h2><span style=\"color: rgb(51, 51, 51);\">3. Information from our merchants' customers. What information do we collect and why?</span></h2><p><br></p><p><span style=\"color: rgb(51, 51, 51);\">We collect our merchants' customers' name, email, shipping and billing address, payment details, company name, phone number, IP address and device data.</span></p><p><span style=\"color: rgb(51, 51, 51);\">We need this information to provide merchants with our Services, including supporting and processing orders, authentication, and processing payments. This information is also used to improve our Services.</span></p><p><span style=\"color: rgb(51, 51, 51);\">When do we collect this information?</span></p><p><span style=\"color: rgb(51, 51, 51);\">Information is collected when a merchant's customer uses or accesses our Services, such as when a customer visits a merchant's site, places an order or signs up for an account on a merchant's site.</span></p><p><br></p><h2><span style=\"color: rgb(51, 51, 51);\">4. Information from Partners</span></h2><p><br></p><p><span style=\"color: rgb(51, 51, 51);\">Partners are individuals or businesses that have agreed to the terms of the Partner Program to work with kamae to promote the Services by (a) referring clients to kamae; (b) developing kamae store themes for merchant use; or (c) developing apps using the kamae Application Interface (API) for merchant use.</span></p><p><span style=\"color: rgb(51, 51, 51);\">What information do we collect from Partners and why?</span></p><p><span style=\"color: rgb(51, 51, 51);\">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We collect your name, company name, website, twitter or other social media handles, phone number(s), address, business type, and email address.</span></p><p><span style=\"color: rgb(51, 51, 51);\">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We use this information to work with you, confirm your identity, contact you, and pay you.</span></p><p><span style=\"color: rgb(51, 51, 51);\">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We collect data about the kamae -hosted webpages that you visit and how and when you access your account, including information about the device and browser you use, your network connection and your IP address.</span></p><p><span style=\"color: rgb(51, 51, 51);\">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We use this information to give you access to and improve our Services.</span></p><p><span style=\"color: rgb(51, 51, 51);\">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We collect Personal Information about your customers that you share with us or that they provide to us directly.</span></p><p><span style=\"color: rgb(51, 51, 51);\">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We use this information to work with you and to provide our Services to your customers.</span></p><p><span style=\"color: rgb(51, 51, 51);\">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We will also use Personal Information in other cases where you have given us express permission.</span></p><p><span style=\"color: rgb(51, 51, 51);\">When do we collect this information?</span></p><p><span style=\"color: rgb(51, 51, 51);\">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We collect this information when you sign up for a Partner Account, when you sign up one of your customers for our Services, or when your customers sign up themselves. We also collect any additional information that you might provide to us.</span></p><p><br></p><h2><span style=\"color: rgb(51, 51, 51);\">5. Information from kamae.app visitors and support users. What information do we collect and why?</span></h2><p><br></p><p><span style=\"color: rgb(51, 51, 51);\">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From kamae website and app visitors, we collect information about the device and browser you use, your network connection and your IP address.</span></p><p><span style=\"color: rgb(51, 51, 51);\">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From telephone support users, we collect your phone number and call audio.</span></p><p><span style=\"color: rgb(51, 51, 51);\">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From chat support users, we collect your name, email address, information about the device and browser you use, your network connection and your IP address.</span></p><p><span style=\"color: rgb(51, 51, 51);\">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From forum users, we collect your name, email address and website URL.</span></p><p><span style=\"color: rgb(51, 51, 51);\">We use this information to service your account, enhance our Services, and answer any questions you may have.</span></p><p><span style=\"color: rgb(51, 51, 51);\">When do we collect this information?</span></p><p><span style=\"color: rgb(51, 51, 51);\">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We collect this information when you visit kamae.app -hosted pages or engage with us either by email, web form, instant message, phone, or post content on our website (including forums &amp; blogs). We also collect any additional information that you might provide to us.</span></p><p><br></p><h2><span style=\"color: rgb(51, 51, 51);\">6. Information from cookies</span></h2><p><br></p><p><span style=\"color: rgb(51, 51, 51);\">What is a cookie? A cookie is a small amount of data, which may include a unique identifier. Cookies are sent to your browser from a website and stored on your device. Every device that accesses our website is assigned a different cookie by us.</span></p><p><span style=\"color: rgb(51, 51, 51);\">Why does kamae.app use cookies?</span></p><p><span style=\"color: rgb(51, 51, 51);\">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We use cookies to recognize your device and provide you with a personalized experience</span></p><p><span style=\"color: rgb(51, 51, 51);\">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We also use cookies to serve customized ads from Google and other third-party vendors.</span></p><p><span style=\"color: rgb(51, 51, 51);\">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Our third-party advertisers use cookies to track your prior visits to our website and elsewhere on the Internet in order to serve you customized ads.</span></p><p><br></p><h2><span style=\"color: rgb(51, 51, 51);\">7. When and why do we share Personal Information with third parties?</span></h2><p><br></p><p><span style=\"color: rgb(51, 51, 51);\">kamae works with third parties to help provide you with our Services and we may share Personal Information with them to support these efforts. In certain limited circumstances, we may also be required by law to share information with third parties.</span></p><p><span style=\"color: rgb(51, 51, 51);\">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Personal information may be shared with third parties to prevent, investigate, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service or any other agreement related to the Services, or as otherwise required by law.</span></p><p><span style=\"color: rgb(51, 51, 51);\">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Personal information may also be shared with a company that acquires our business, whether through merger, acquisition, bankruptcy, dissolution, reorganization, or other similar transaction or proceeding. If this happens, we will post a notice on our home page.</span></p><p><span style=\"color: rgb(51, 51, 51);\">Except when required by law, kamae.app will never disclose your Personal Information without obtaining your consent.</span></p><p><br></p><h2><span style=\"color: rgb(51, 51, 51);\">8. What do we do with your Personal Information when you terminate your relationship with us?</span></h2><p><br></p><p><span style=\"color: rgb(51, 51, 51);\">We will continue to store archived copies of your Personal Information for legitimate business purposes and to comply with the law.</span></p><p><span style=\"color: rgb(51, 51, 51);\">We will continue to store anonymous or anonymized information, such as website visits, without identifiers, in order to improve our Services.</span></p><p><br></p><h2><span style=\"color: rgb(51, 51, 51);\">9. What we don't do with your Personal Information</span></h2><p><br></p><p><span style=\"color: rgb(51, 51, 51);\">We do not and will never share, disclose, sell, rent, or otherwise provide Personal Information to other companies for the marketing of their own products or services.</span></p><p><span style=\"color: rgb(51, 51, 51);\">We do not use the Personal Information we collect from you or your customers to contact or market to your customers or directly compete with you. However, kamae.app may contact or market to your customers if we obtain their information from another source, such as from the customers themselves.</span></p><p><br></p><h2><span style=\"color: rgb(51, 51, 51);\">10. How do we keep your Personal Information secure?</span></h2><p><br></p><p><span style=\"color: rgb(51, 51, 51);\">We follow industry standards on information security management to safeguard sensitive information, such as financial information, intellectual property, employee details and any other Personal Information entrusted to us. Our information security systems apply to people, processes and information technology systems on a risk management basis.</span></p><p><span style=\"color: rgb(51, 51, 51);\">No method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee the absolute security of your Personal Information.</span></p><p><br></p><h2><span style=\"color: rgb(51, 51, 51);\">11. Access to your personal information</span></h2><p><br></p><p><span style=\"color: rgb(51, 51, 51);\">You retain all rights to your Personal Information and can access it anytime. In addition, Skamae.app takes reasonable steps to allow you to correct, amend or delete personal information that is shown to be inaccurate or incomplete.</span></p><p>&nbsp;</p>",
+        "aboutUs": "<p>About Us</p>"
+      },
+      "firstOrderDiscount": 10
+    },
+    "category": [
+      {
+        "_id": "61e6584853b66fc7ae16598d",
+        "name": "Clothes",
+        "slug": "clothes",
+        "image": "public/category/dbv10ngjq0UQD.jpg"
+      },
+      {
+        "_id": "622343439b952ecfa1e5e686",
+        "name": "Electronic Accessories",
+        "slug": "electronic-accessories",
+        "image": "public/category/lrvkjZqnRo7Va.jpg"
+      },
+      {
+        "_id": "61ee4d2fa4cbc37b24ad231a",
+        "name": "Fashoin Accessories",
+        "slug": "fashoin-accessories",
+        "image": "public/category/JO0hW3Ec2RyaC.jpg"
+      },
+      {
+        "_id": "61efae472ab99c9fc68d22c5",
+        "name": "Footwear",
+        "slug": "footwear",
+        "image": "public/category/x2_07FmmKMnrx.jpg"
+      },
+      {
+        "_id": "61ebeb367fbbffe3aae62ef9",
+        "name": "Grooming",
+        "slug": "grooming",
+        "image": "public/category/tF_HNRlXEjGfh.jpg"
+      },
+      {
+        "_id": "61efd1232ab99c9fc68d233d",
+        "name": "Home & Lifestyle",
+        "slug": "home-lifestyle",
+        "image": "public/category/wEZ7e548V1YzL.jpg"
+      },
+      {
+        "_id": "61e641f8274e10c298be8aca",
+        "name": "Watch",
+        "slug": "watch",
+        "image": "public/category/zcQdpo5M298Io.jpg"
+      }
+    ],
+    "shop": {
+      "title": "Shop By Store",
+      "items": [
+        {
+          "_id": "62399e35e75cd11b172db590",
+          "name": "IFH-Store",
+          "slug": "ifh-store",
+          "image": "public/vendor/ByYfHj0pCCG.jpg"
+        },
+        {
+          "_id": "62399e1be75cd11b172db58f",
+          "name": "NZP-Store",
+          "slug": "nzp-store",
+          "image": "public/vendor/Bx1O0P4w7r7.jpg"
+        },
+        {
+          "_id": "62395bc302161b7d433e7feb",
+          "name": "AEP-store",
+          "slug": "aep-store",
+          "image": "public/vendor/NBJfNGufuCL.jpg"
+        },
+        {
+          "_id": "623076afb3b2fb1b3fc20fb5",
+          "name": "WPH-store",
+          "slug": "wph-store",
+          "image": "public/vendor/tznvlCLFx2s.jpg"
+        },
+        {
+          "_id": "6230768ab3b2fb1b3fc20fb4",
+          "name": "KST-store",
+          "slug": "kst-store",
+          "image": "public/vendor/TD1HuFIsyQE.jpg"
+        },
+        {
+          "_id": "62302adbb3b2fb1b3fc20e53",
+          "name": "DFH-store",
+          "slug": "dfh-store",
+          "image": "public/vendor/lII8j-wVx5H.jpg"
+        },
+        {
+          "_id": "622efa4839364036280128f1",
+          "name": "ANF- Store",
+          "slug": "anf-store",
+          "image": "public/vendor/VPc4v2wjmCD.jpg"
+        },
+        {
+          "_id": "622d81a82845b4a6fd5d0bc9",
+          "name": "EGNT-store",
+          "slug": "egnt-store",
+          "image": "public/vendor/grAe9lZLcIZ.jpg"
+        }
+      ]
+    },
+    "brand": {
+      "title": "Shop By Brand",
+      "items": [
+        {
+          "active": true,
+          "_id": "61ee596a2ab99c9fc68d208d",
+          "name": "Saree Store - Terra",
+          "image": "public/brand/61ee596a2ab99c9fc68d208d.jpg",
+          "slug": "saree-store-terra"
+        },
+        {
+          "active": true,
+          "_id": "61e7e071bca880fe5fa0f9e2",
+          "name": "Megir Watch",
+          "image": "public/brand/61e7e071bca880fe5fa0f9e2.jpg",
+          "slug": "megir-watch"
+        },
+        {
+          "active": true,
+          "_id": "61e7e01bbca880fe5fa0f9df",
+          "name": "Hannah Martin Watch",
+          "image": "public/brand/61e7e01bbca880fe5fa0f9df.jpg",
+          "slug": "hannah-martin-watch"
+        },
+        {
+          "active": true,
+          "_id": "61e7dffabca880fe5fa0f9dc",
+          "name": "Yazole Watch",
+          "image": "public/brand/61e7dffabca880fe5fa0f9dc.jpg",
+          "slug": "yazole-watch"
+        },
+        {
+          "active": true,
+          "_id": "61e64619274e10c298be8ad2",
+          "name": "Skmei Watch and Co.",
+          "image": "public/brand/61e64619274e10c298be8ad2.jpg",
+          "slug": "skmei-watch-and-co"
+        },
+        {
+          "active": true,
+          "_id": "61e64604274e10c298be8ad0",
+          "name": "Curren Watch and Co.",
+          "image": "public/brand/61e64604274e10c298be8ad0.jpg",
+          "slug": "curren-watch-and-co"
+        }
+      ]
+    },
+    "productSection": [
+      {
+        "title": "Clothes",
+        "items": [
+          {
+            "brand": {
+              "_id": "",
+              "name": "None Brand",
+              "image": ""
+            },
+            "price": 719,
+            "buyingPrice": 719,
+            "currentStock": 15,
+            "_id": "6265127ee6cb1cd77f9c78ee",
+            "name": "NZ13501 Special Cotton Panjabi for Men - Yellow Print",
+            "variations": [
+              {
+                "value1": "40",
+                "value2": "",
+                "discountType": 2,
+                "discountAmount": 0,
+                "image": [],
+                "regularPrice": 719,
+                "buyingPrice": 719,
+                "maxPrice": 899,
+                "minPrice": 755,
+                "stock": 5,
+                "_id": "6267c927e6cb1cd77f9c797c"
+              },
+              {
+                "value1": "42",
+                "value2": "",
+                "discountType": 2,
+                "discountAmount": 0,
+                "image": [],
+                "regularPrice": 719,
+                "buyingPrice": 719,
+                "maxPrice": 899,
+                "minPrice": 755,
+                "stock": 5,
+                "_id": "6267c927e6cb1cd77f9c797d"
+              },
+              {
+                "value1": "44",
+                "value2": "",
+                "discountType": 2,
+                "discountAmount": 0,
+                "image": [],
+                "regularPrice": 719,
+                "buyingPrice": 719,
+                "maxPrice": 899,
+                "minPrice": 755,
+                "stock": 5,
+                "_id": "6267c927e6cb1cd77f9c797e"
+              }
+            ],
+            "description": "<p><strong>Measurement :</strong></p><p>Size : L , Chest : 40 , Length : 40&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Size : XL , Chest : 42 , Length : 42</p><p>Size : XLL , Chest : 44 , Length : 44&nbsp;&nbsp;&nbsp;&nbsp;Size : 2XL , Chest : 46 , Length : 46</p><p>Product details :</p><p>Main Material: 100% Cotton&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><p>Gender: Men</p><p>Wash &amp; Care: Machine Wash</p>",
+            "thumbnail": "public/product/nDWwwmG4P5y-RY37ztWQj.jpg",
+            "slug": "nz13501-special-cotton-panjabi-for-men-yellow-print-xKejf",
+            "sku": "01606"
+          },
+          {
+            "brand": {
+              "_id": "",
+              "name": "None Brand",
+              "image": ""
+            },
+            "price": 959,
+            "buyingPrice": 959,
+            "currentStock": 10,
+            "_id": "6265111ee6cb1cd77f9c78e8",
+            "name": "NZ13528 Special Cotton Panjabi for Men - Maroon",
+            "variations": [
+              {
+                "value1": "40",
+                "value2": "",
+                "discountType": 2,
+                "discountAmount": 0,
+                "image": [],
+                "regularPrice": 959,
+                "buyingPrice": 959,
+                "maxPrice": 1199,
+                "minPrice": 1007,
+                "stock": 5,
+                "_id": "6267adc9e6cb1cd77f9c7912"
+              },
+              {
+                "value1": "42",
+                "value2": "",
+                "discountType": 2,
+                "discountAmount": 0,
+                "image": [],
+                "regularPrice": 959,
+                "buyingPrice": 959,
+                "maxPrice": 0,
+                "minPrice": 0,
+                "stock": 0,
+                "_id": "6267adc9e6cb1cd77f9c7913"
+              },
+              {
+                "value1": "44",
+                "value2": "",
+                "discountType": 2,
+                "discountAmount": 0,
+                "image": [],
+                "regularPrice": 959,
+                "buyingPrice": 959,
+                "maxPrice": 1199,
+                "minPrice": 1007,
+                "stock": 5,
+                "_id": "6267adc9e6cb1cd77f9c7914"
+              }
+            ],
+            "description": "<p><strong>Measurement :</strong></p><p>Size : L , Chest : 40 , Length : 40&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Size : XL , Chest : 42 , Length : 42</p><p>Size : XLL , Chest : 44 , Length : 44&nbsp;&nbsp;&nbsp;&nbsp;Size : 2XL , Chest : 46 , Length : 46</p><p>Product details :</p><p>Main Material: 100% Cotton&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><p>Gender: Men</p><p>Wash &amp; Care: Machine Wash</p>",
+            "thumbnail": "public/product/hkMEGs--P15v3MWKLjDRM.jpg",
+            "slug": "nz13528-special-cotton-panjabi-for-men-maroon-7yzI2",
+            "sku": "01633"
+          },
+          {
+            "brand": {
+              "_id": "",
+              "name": "None Brand",
+              "image": ""
+            },
+            "price": 479,
+            "buyingPrice": 479,
+            "currentStock": 15,
+            "_id": "6265111ee6cb1cd77f9c78ec",
+            "name": "NZ13530 Special Cotton Panjabi for Men - Off White",
+            "variations": [
+              {
+                "value1": "40",
+                "value2": "",
+                "discountType": 2,
+                "discountAmount": 0,
+                "image": [],
+                "regularPrice": 479,
+                "buyingPrice": 479,
+                "maxPrice": 599,
+                "minPrice": 503,
+                "stock": 5,
+                "_id": "6267c990e6cb1cd77f9c797f"
+              },
+              {
+                "value1": "42",
+                "value2": "",
+                "discountType": 2,
+                "discountAmount": 0,
+                "image": [],
+                "regularPrice": 479,
+                "buyingPrice": 479,
+                "maxPrice": 599,
+                "minPrice": 503,
+                "stock": 5,
+                "_id": "6267c990e6cb1cd77f9c7980"
+              },
+              {
+                "value1": "44",
+                "value2": "",
+                "discountType": 2,
+                "discountAmount": 0,
+                "image": [],
+                "regularPrice": 479,
+                "buyingPrice": 479,
+                "maxPrice": 599,
+                "minPrice": 503,
+                "stock": 5,
+                "_id": "6267c990e6cb1cd77f9c7981"
+              }
+            ],
+            "description": "<p><strong>Measurement :</strong></p><p>Size : L , Chest : 40 , Length : 40&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Size : XL , Chest : 42 , Length : 42</p><p>Size : XLL , Chest : 44 , Length : 44&nbsp;&nbsp;&nbsp;&nbsp;Size : 2XL , Chest : 46 , Length : 46</p><p>Product details :</p><p>Main Material: 100% Cotton&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><p>Gender: Men</p><p>Wash &amp; Care: Machine Wash</p>",
+            "thumbnail": "public/product/6VaCxt8UobYao2SSeLD6z.jpg",
+            "slug": "nz13530-special-cotton-panjabi-for-men-off-white-iBGof",
+            "sku": "01635"
+          },
+          {
+            "brand": {
+              "_id": "",
+              "name": "None Brand",
+              "image": ""
+            },
+            "price": 959,
+            "buyingPrice": 959,
+            "currentStock": 15,
+            "_id": "6265111ee6cb1cd77f9c78e6",
+            "name": "NZ13527 Special Cotton Panjabi for Men - Deep Orange",
+            "variations": [
+              {
+                "value1": "40",
+                "value2": "",
+                "discountType": 2,
+                "discountAmount": 0,
+                "image": [],
+                "regularPrice": 959,
+                "buyingPrice": 959,
+                "maxPrice": 1199,
+                "minPrice": 1007,
+                "stock": 5,
+                "_id": "6267b044e6cb1cd77f9c7915"
+              },
+              {
+                "value1": "42",
+                "value2": "",
+                "discountType": 2,
+                "discountAmount": 0,
+                "image": [],
+                "regularPrice": 959,
+                "buyingPrice": 959,
+                "maxPrice": 1199,
+                "minPrice": 1007,
+                "stock": 5,
+                "_id": "6267b044e6cb1cd77f9c7916"
+              },
+              {
+                "value1": "44",
+                "value2": "",
+                "discountType": 2,
+                "discountAmount": 0,
+                "image": [],
+                "regularPrice": 959,
+                "buyingPrice": 959,
+                "maxPrice": 1199,
+                "minPrice": 1007,
+                "stock": 5,
+                "_id": "6267b044e6cb1cd77f9c7917"
+              }
+            ],
+            "description": "<p><strong>Measurement :</strong></p><p>Size : L , Chest : 40 , Length : 40&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Size : XL , Chest : 42 , Length : 42</p><p>Size : XLL , Chest : 44 , Length : 44&nbsp;&nbsp;&nbsp;&nbsp;Size : 2XL , Chest : 46 , Length : 46</p><p>Product details :</p><p>Main Material: 100% Cotton&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><p>Gender: Men</p><p>Wash &amp; Care: Machine Wash</p>",
+            "thumbnail": "public/product/G7Q2FkEKfvT0WVeu_ZUPw.jpg",
+            "slug": "nz13527-special-cotton-panjabi-for-men-deep-orange-6FO-u",
+            "sku": "01632"
+          },
+          {
+            "brand": {
+              "_id": "",
+              "name": "None Brand",
+              "image": ""
+            },
+            "price": 959,
+            "buyingPrice": 959,
+            "currentStock": 15,
+            "_id": "6265111ee6cb1cd77f9c78e4",
+            "name": "NZ13526 Special Cotton Panjabi for Men - Silver",
+            "variations": [
+              {
+                "value1": "40",
+                "value2": "",
+                "discountType": 2,
+                "discountAmount": 0,
+                "image": [],
+                "regularPrice": 959,
+                "buyingPrice": 959,
+                "maxPrice": 1199,
+                "minPrice": 1007,
+                "stock": 5,
+                "_id": "6267b130e6cb1cd77f9c7918"
+              },
+              {
+                "value1": "42",
+                "value2": "",
+                "discountType": 2,
+                "discountAmount": 0,
+                "image": [],
+                "regularPrice": 959,
+                "buyingPrice": 959,
+                "maxPrice": 1199,
+                "minPrice": 1007,
+                "stock": 5,
+                "_id": "6267b130e6cb1cd77f9c7919"
+              },
+              {
+                "value1": "44",
+                "value2": "",
+                "discountType": 2,
+                "discountAmount": 0,
+                "image": [],
+                "regularPrice": 959,
+                "buyingPrice": 959,
+                "maxPrice": 1199,
+                "minPrice": 1007,
+                "stock": 5,
+                "_id": "6267b130e6cb1cd77f9c791a"
+              }
+            ],
+            "description": "<p><strong>Measurement :</strong></p><p>Size : L , Chest : 40 , Length : 40&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Size : XL , Chest : 42 , Length : 42</p><p>Size : XLL , Chest : 44 , Length : 44&nbsp;&nbsp;&nbsp;&nbsp;Size : 2XL , Chest : 46 , Length : 46</p><p>Product details :</p><p>Main Material: 100% Cotton&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><p>Gender: Men</p><p>Wash &amp; Care: Machine Wash</p>",
+            "thumbnail": "public/product/ZOeA1rPvUNOboj6MuhGxm.jpg",
+            "slug": "nz13526-special-cotton-panjabi-for-men-silver-49OE-",
+            "sku": "01631"
+          },
+          {
+            "brand": {
+              "_id": "",
+              "name": "None Brand",
+              "image": ""
+            },
+            "price": 840,
+            "buyingPrice": 840,
+            "currentStock": 15,
+            "_id": "6265111ee6cb1cd77f9c78e2",
+            "name": "NZ13525 Special Cotton Panjabi for Men - Ash",
+            "variations": [
+              {
+                "value1": "40",
+                "value2": "",
+                "discountType": 2,
+                "discountAmount": 0,
+                "image": [],
+                "regularPrice": 840,
+                "buyingPrice": 840,
+                "maxPrice": 1050,
+                "minPrice": 882,
+                "stock": 5,
+                "_id": "6267b58ee6cb1cd77f9c791b"
+              },
+              {
+                "value1": "42",
+                "value2": "",
+                "discountType": 2,
+                "discountAmount": 0,
+                "image": [],
+                "regularPrice": 840,
+                "buyingPrice": 840,
+                "maxPrice": 1050,
+                "minPrice": 882,
+                "stock": 5,
+                "_id": "6267b58ee6cb1cd77f9c791c"
+              },
+              {
+                "value1": "44",
+                "value2": "",
+                "discountType": 2,
+                "discountAmount": 0,
+                "image": [],
+                "regularPrice": 840,
+                "buyingPrice": 840,
+                "maxPrice": 1050,
+                "minPrice": 882,
+                "stock": 5,
+                "_id": "6267b58ee6cb1cd77f9c791d"
+              }
+            ],
+            "description": "<p><strong>Measurement :</strong></p><p>Size : L , Chest : 40 , Length : 40&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Size : XL , Chest : 42 , Length : 42</p><p>Size : XLL , Chest : 44 , Length : 44&nbsp;&nbsp;&nbsp;&nbsp;Size : 2XL , Chest : 46 , Length : 46</p><p>Product details :</p><p>Main Material: 100% Cotton&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><p>Gender: Men</p><p>Wash &amp; Care: Machine Wash</p>",
+            "thumbnail": "public/product/1EbtfP6ytptVHNg3UEKR9.jpg",
+            "slug": "nz13525-special-cotton-panjabi-for-men-ash-vJNSt",
+            "sku": "01630"
+          }
+        ],
+        "slug": "/category/clothes"
+      },
+
+      {
+        "title": "Female Watch",
+        "items": [
+          {
+            "brand": {
+              "_id": "61e7e01bbca880fe5fa0f9df",
+              "name": "Hannah Martin Watch",
+              "image": "public/brand/61e7e01bbca880fe5fa0f9df.jpg"
+            },
+            "price": 2030,
+            "buyingPrice": 2030,
+            "currentStock": 3,
+            "_id": "61e7e134bca880fe5fa0fa21",
+            "name": "Hannah Martin 108HM Petite Rosegold Black Dial Watch",
+            "variations": [
+              {
+                "value1": "",
+                "value2": "",
+                "discountType": 1,
+                "discountAmount": 0,
+                "image": [
+                  "public/product/4T3Y4s9p0Ph.jpg",
+                  "public/product/bCOvmd27x7n.jpg",
+                  "public/product/fdTm37dPzok.jpg",
+                  "public/product/J01rTl54qUo.jpg"
+                ],
+                "regularPrice": 2030,
+                "buyingPrice": 2030,
+                "maxPrice": 2842,
+                "minPrice": 2132,
+                "stock": -8,
+                "_id": "61e904a2bca880fe5fa0fac0"
+              }
+            ],
+            "description": "<h1><strong>Description :</strong></h1><p>&nbsp;</p><p>&nbsp;</p><p>Hannah Martin 108HM Petite Rosegold Black Dial Watch</p><p><strong>Watch</strong></p><p>The watch is good quality Watch, impressed with the design and look. The brand is reliable and stylish. A formal/semi-formal looking watch that is cheap and branded. A little expensive than skmei or laurels, but this is a more reliable and good brand.</p><p>&nbsp;</p><p>Hannah Martin 108HM Petite Rosegold Black Dial Watch</p><p>Brand</p><p>SKMEI</p><p>Watch Type</p><p>Analouge</p><p>Strap Material</p><p>Leather</p><p>Warranty Policy EN</p><p>1 Year free service warranty on the movement of the watch.Warranty policy dose not cover damages resulting from batteries consume, misuse, accidents/physical damage , normal wear of strap and plating problems, color fading or unauthorized repairs.</p><p>Hannah Martin 108HM Petite Rosegold Black Dial Watch</p><p>&nbsp;</p>",
+            "thumbnail": "public/product/4T3Y4s9p0Ph.jpg",
+            "slug": "hannah-martin-108hm-petite-rosegold-black-dial-watch-ZH8rt",
+            "sku": "00371"
+          },
+          {
+            "brand": {
+              "_id": "61e7e01bbca880fe5fa0f9df",
+              "name": "Hannah Martin Watch",
+              "image": "public/brand/61e7e01bbca880fe5fa0f9df.jpg"
+            },
+            "price": 2093,
+            "buyingPrice": 2093,
+            "currentStock": 5,
+            "_id": "61e7e134bca880fe5fa0fa1b",
+            "name": "Hannah Martin MAKA M BAKO Rosegold Black Body Unisex Watch",
+            "variations": [
+              {
+                "value1": "",
+                "value2": "",
+                "discountType": 1,
+                "discountAmount": 0,
+                "image": [
+                  "public/product/XSRtbaTlAUu.jpg",
+                  "public/product/pUp15urbNSp.jpg"
+                ],
+                "regularPrice": 2093,
+                "buyingPrice": 2093,
+                "maxPrice": 2930,
+                "minPrice": 2198,
+                "stock": 0,
+                "_id": "61e90553bca880fe5fa0fac3"
+              }
+            ],
+            "description": "<h2><strong>Description</strong></h2><p>&nbsp;</p><p>Brand Name: MAKAMBAKO Product Type: Quartz Watch Style: fashion, leisure, sports, business Features: impact resistance Features: waterproof Waterproof depth: 3Bar Waterproof performance: daily waterproof (not suitable for swimming or showering) Case shape: oval Length: 22 cm Bandwidth: 24mm Dial diameter: 40mm Case thickness: 8.5 mm Strap Material Type: Alloy Buckle type: safety folding buckle Applications: Suitable for all occasions and events: parties, anniversary, business, leisure, outdoor sports, indoor activities or daily use</p>",
+            "thumbnail": "public/product/XSRtbaTlAUu.jpg",
+            "slug": "hannah-martin-maka-m-bako-rosegold-black-body-unisex-watch-7iYVy",
+            "sku": "00368"
+          },
+          {
+            "brand": {
+              "_id": "61e7e01bbca880fe5fa0f9df",
+              "name": "Hannah Martin Watch",
+              "image": "public/brand/61e7e01bbca880fe5fa0f9df.jpg"
+            },
+            "price": 2030,
+            "buyingPrice": 2030,
+            "currentStock": 5,
+            "_id": "61e7e134bca880fe5fa0fa1d",
+            "name": "Hannah Martin 108HM Petite Silver Watch",
+            "variations": [
+              {
+                "value1": "",
+                "value2": "",
+                "discountType": 1,
+                "discountAmount": 0,
+                "image": [
+                  "public/product/nEXFfNaP2TY.jpg",
+                  "public/product/Fd1ei4ACgOg.jpg"
+                ],
+                "regularPrice": 2030,
+                "buyingPrice": 2030,
+                "maxPrice": 2842,
+                "minPrice": 2132,
+                "stock": 0,
+                "_id": "61e9052abca880fe5fa0fac2"
+              }
+            ],
+            "description": "<h1><strong>Description :</strong></h1><p>&nbsp;</p><p>&nbsp;</p><p>Hannah Martin 108HM Petite Silver Watch</p><p><strong>Watch</strong></p><p>The watch is good quality Watch, impressed with the design and look. The brand is reliable and stylish. A formal/semi-formal looking watch that is cheap and branded. A little expensive than skmei or laurels, but this is a more reliable and good brand.</p><p>&nbsp;</p><p>Hannah Martin 108HM Petite Silver Watch</p><p>Brand</p><p>SKMEI</p><p>Watch Type</p><p>Analouge</p><p>Strap Material</p><p>Leather</p><p>Warranty Policy EN</p><p>1 Year free service warranty on the movement of the watch.Warranty policy dose not cover damages resulting from batteries consume, misuse, Hannah Martin 108HM Petite Silver Watch</p><p>&nbsp;</p>",
+            "thumbnail": "public/product/nEXFfNaP2TY.jpg",
+            "slug": "hannah-martin-108hm-petite-silver-watch-HN3Hl",
+            "sku": "00369"
+          },
+          {
+            "brand": {
+              "_id": "61e7e01bbca880fe5fa0f9df",
+              "name": "Hannah Martin Watch",
+              "image": "public/brand/61e7e01bbca880fe5fa0f9df.jpg"
+            },
+            "price": 2030,
+            "buyingPrice": 2030,
+            "currentStock": 5,
+            "_id": "61e7e134bca880fe5fa0fa1f",
+            "name": "Hannah Martin 108HM Petite Rosegold Watch",
+            "variations": [
+              {
+                "value1": "",
+                "value2": "",
+                "discountType": 1,
+                "discountAmount": 0,
+                "image": [
+                  "public/product/ekL-YB29GOb.jpg",
+                  "public/product/VMJ65_9id3N.jpg",
+                  "public/product/Elh-pARfeJh.jpg"
+                ],
+                "regularPrice": 2030,
+                "buyingPrice": 2030,
+                "maxPrice": 2842,
+                "minPrice": 2132,
+                "stock": 0,
+                "_id": "61e904f7bca880fe5fa0fac1"
+              }
+            ],
+            "description": "<h1><strong>Description :</strong></h1><p>&nbsp;</p><p>&nbsp;Hannah Martin 108HM Petite Rosegold Watch</p><p><strong>Watch</strong></p><p>The watch is good quality Watch, impressed with the design and look. The brand is reliable and stylish. A formal/semi-formal looking watch that is cheap and branded. A little expensive than skmei or laurels, but this is a more reliable and good brand.</p><p>&nbsp;</p><p>Hannah Martin 108HM Petite Rosegold Watch</p><p>Brand</p><p>SKMEI</p><p>Watch Type</p><p>Analouge</p><p>Strap Material</p><p>Leather</p><p>Warranty Policy EN</p><p>1 Year free service warranty on the movement of the watch.Warranty policy dose not cover damages resulting from batteries consume, misuse, accidents/physical damage , normal wear of strap and plating problems, color fading or unauthorized repairs.</p><p>Hannah Martin 108HM Petite Rosegold Watch</p><p>&nbsp;</p>",
+            "thumbnail": "public/product/ekL-YB29GOb.jpg",
+            "slug": "hannah-martin-108hm-petite-rosegold-watch-ZJAyc",
+            "sku": "00370"
+          },
+          {
+            "brand": {
+              "_id": "61e7e01bbca880fe5fa0f9df",
+              "name": "Hannah Martin Watch",
+              "image": "public/brand/61e7e01bbca880fe5fa0f9df.jpg"
+            },
+            "price": 2093,
+            "buyingPrice": 2093,
+            "currentStock": 5,
+            "_id": "61e7e134bca880fe5fa0fa17",
+            "name": "Hannah Martin MAKA M BAKO Silver Body Black Dial Unisex Watch",
+            "variations": [
+              {
+                "value1": "",
+                "value2": "",
+                "discountType": 1,
+                "discountAmount": 0,
+                "image": [
+                  "public/product/_hnRPkG789k.jpg",
+                  "public/product/4dla-0ZrnnG.jpg",
+                  "public/product/NYSAgoQbsyK.jpg"
+                ],
+                "regularPrice": 2093,
+                "buyingPrice": 2093,
+                "maxPrice": 2930,
+                "minPrice": 2198,
+                "stock": 4,
+                "_id": "61e90577bca880fe5fa0fac4"
+              }
+            ],
+            "description": "<h2><strong>Description</strong></h2><p>&nbsp;</p><p>Brand Name: MAKAMBAKO Product Type: Quartz Watch Style: fashion, leisure, sports, business Features: impact resistance Features: waterproof Waterproof depth: 3Bar Waterproof performance: daily waterproof (not suitable for swimming or showering) Case shape: oval Length: 22 cm Bandwidth: 24mm Dial diameter: 40mm Case thickness: 8.5 mm Strap Material Type: Alloy Buckle type: safety folding buckle Applications: Suitable for all occasions and events: parties, anniversary, business, leisure, outdoor sports, indoor activities or daily use</p>",
+            "thumbnail": "public/product/_hnRPkG789k.jpg",
+            "slug": "hannah-martin-maka-m-bako-silver-body-black-dial-unisex-watch-Vea29",
+            "sku": "00367"
+          },
+          {
+            "brand": {
+              "_id": "61e64619274e10c298be8ad2",
+              "name": "Skmei Watch and Co.",
+              "image": "public/brand/61e64619274e10c298be8ad2.jpg"
+            },
+            "price": 1524,
+            "buyingPrice": 1524,
+            "currentStock": 5,
+            "_id": "61e7a8d7bca880fe5fa0f8b9",
+            "name": "SKMEI 9058LGDBKBK-S Gold Case Black Band Black Dail( Female )",
+            "variations": [
+              {
+                "value1": "",
+                "value2": "",
+                "discountType": 1,
+                "discountAmount": 0,
+                "image": [
+                  "public/product/xqSqxKiridT.jpg",
+                  "public/product/RkC2ctrQtaL.jpg",
+                  "public/product/irun2-fP50Z.jpg",
+                  "public/product/Ws-HlRTeGjJ.jpg",
+                  "public/product/e4NPYcX1oIL.jpg"
+                ],
+                "regularPrice": 1524,
+                "buyingPrice": 1524,
+                "maxPrice": 2134,
+                "minPrice": 1661,
+                "stock": -9,
+                "_id": "61e7b035bca880fe5fa0f930"
+              }
+            ],
+            "description": "<ul><li><a href=\"https://pristineshop.com.bd/product/skmei-9058lgdbkbk-s-gold-case-black-band-black-dail-female/#tab-description\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--colorPrimary,#212121);\">Description</a></li><li>Brand Name:åÊSKMEI</li><li>Model Number:åÊSKMEI 9058</li><li>Style:åÊFashion &amp; Casual</li><li>Feature:åÊAuto Date</li><li>Feature:åÊWater-Resistant</li><li>Movement:åÊQUARTZ</li><li>Clasp Type:åÊBuckle</li><li>Water Resistance Depth:åÊ3Bar</li><li>Case Material:åÊAlloy</li><li>Band Length:åÊ25cm</li><li>Case Thickness:åÊ10mm</li><li>Band Width:åÊ22mm</li><li>Case Shape:åÊRound</li><li>Item Type:åÊQuartz Wristwatches</li><li>Boxes &amp; Cases Material:åÊNo package</li><li>Band Material Type:åÊStainless steel</li><li>Dial Diameter:åÊ38mm</li><li>Dial Window Material Type:åÊGlass</li><li>Gender:åÊMen, Women</li><li>Analog dress watches casual design, roman number time mark with the simplicity of business casual brings you back to the classic. Also make it a great gift for family, friends or lovers</li><li>Japanese quartz movement provides precise and accurate timekeeping. 24-hour time display, analog quartz movement, roman number, calendar-date</li><li>German high hardness glass plate, stainless steel waterproof case cover</li><li>Soft leather watch bands provide a comfortable wearing experience. Max wearable perimeter is 8.66 inches / 22 cm</li><li>98FT / 30M normal water-resistant: Hand washing, rain, daily use are allowed, not suitable for the hot water bath, diving, etc. Please DO NOT pull the crown in water</li></ul>",
+            "thumbnail": "public/product/xqSqxKiridT.jpg",
+            "slug": "skmei-9058lgdbkbk-s-gold-case-black-band-black-dail-female-3mDXK",
+            "sku": "00187"
+          }
+        ],
+        "slug": "/subcategory/female-watch"
+      },
+
+      {
+        "title": "Male Watch",
+        "items": [
+          {
+            "brand": {
+              "_id": "61e7dffabca880fe5fa0f9dc",
+              "name": "Yazole Watch",
+              "image": "public/brand/61e7dffabca880fe5fa0f9dc.jpg"
+            },
+            "price": 1855,
+            "buyingPrice": 1855,
+            "currentStock": 5,
+            "_id": "61e7e134bca880fe5fa0fa15",
+            "name": "Yazole YZ372 Blue Dial Brown Strap Male Watch",
+            "variations": [
+              {
+                "value1": "",
+                "value2": "",
+                "discountType": 1,
+                "discountAmount": 0,
+                "image": [
+                  "public/product/kZBXMV_Ltyr.jpg",
+                  "public/product/PWRxxhBn0kE.jpg",
+                  "public/product/xVemLwpd0qk.jpg",
+                  "public/product/MGPm4cyDJIs.jpg"
+                ],
+                "regularPrice": 1855,
+                "buyingPrice": 1855,
+                "maxPrice": 2597,
+                "minPrice": 1948,
+                "stock": -2,
+                "_id": "61e9065bbca880fe5fa0fac6"
+              }
+            ],
+            "description": "<h1><strong>Products Description :</strong></h1><p>Product Name:</p><p>Yazole 444 Men’s Leather Watch Six-pin European And American Fashion Quartz Wrist Watches Water Proof</p><p>Item No:</p><p>yazole 444</p><p>Case Material:</p><p>alloy</p><p>Belt Material:</p><p>alloy</p><p>Dial Diameter:</p><p>40mm</p><p>Belt Width:</p><p>20mm</p><p>Belt Length:</p><p>24cm</p><p>Case Thickness:</p><p>8mm</p><p>Color:</p><p>6colors</p><p>Weight:</p><p>60g</p><p>Package:</p><p>1 pc 1 OPP bag+Bubble Bag+ Waterproof Carton</p><p>OEM ODM</p><p>500pcs For Unit Color</p>",
+            "thumbnail": "public/product/kZBXMV_Ltyr.jpg",
+            "slug": "yazole-yz372-blue-dial-brown-strap-male-watch-WIiuF",
+            "sku": "00365"
+          },
+          {
+            "brand": {
+              "_id": "61e7e071bca880fe5fa0f9e2",
+              "name": "Megir Watch",
+              "image": "public/brand/61e7e071bca880fe5fa0f9e2.jpg"
+            },
+            "price": 2905,
+            "buyingPrice": 2905,
+            "currentStock": 5,
+            "_id": "61e7e134bca880fe5fa0fa19",
+            "name": "MEGIR Black Stainless Steel Male Watch",
+            "variations": [
+              {
+                "value1": "",
+                "value2": "",
+                "discountType": 1,
+                "discountAmount": 0,
+                "image": [
+                  "public/product/fGYTgq8-bgM.jpg",
+                  "public/product/UCSPrR3SiwR.jpg",
+                  "public/product/ga17fQaYbWp.jpg"
+                ],
+                "regularPrice": 2905,
+                "buyingPrice": 2905,
+                "maxPrice": 4067,
+                "minPrice": 3050,
+                "stock": 2,
+                "_id": "61e905e7bca880fe5fa0fac5"
+              }
+            ],
+            "description": "<h1><a href=\"https://pristineshop.com.bd/product/megir-black-stainless-steel-male-watch/#tab-description\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--colorPrimary,#212121);\"><strong>Description</strong></a> :</h1><p>Specification :</p><p>Brand Name : MEGIR</p><p>Band Length : 24cm</p><p>Style : Fashion &amp; Casual</p><p>Movement : QUARTZ</p><p>Water Resistance Depth : 3Bar</p><p>Clasp Type : Bracelet Clasp</p><p>Case Material : Alloy</p><p>Case Thickness : 11.5mm</p><p>Dial Window Material Type : Hardlex</p><p>Item Type : Quartz Wristwatches</p><p>Band Material Type : Stainless Steel</p><p>Dial Diameter : 42mm</p><p>Model Number : 2160</p><p>Band Width : 20mm</p><p>Case Shape : Round</p><p>Feature : Stop Watch</p><p>Feature : luminous</p><p>Feature : Chronograp</p>",
+            "thumbnail": "public/product/fGYTgq8-bgM.jpg",
+            "slug": "megir-black-stainless-steel-male-watch-enBrk",
+            "sku": "00366"
+          },
+          {
+            "brand": {
+              "_id": "61e7dffabca880fe5fa0f9dc",
+              "name": "Yazole Watch",
+              "image": "public/brand/61e7dffabca880fe5fa0f9dc.jpg"
+            },
+            "price": 1610,
+            "buyingPrice": 1610,
+            "currentStock": 5,
+            "_id": "61e7e134bca880fe5fa0fa11",
+            "name": "Yazole YZ353 Mustard Leather White Dial Male Watch",
+            "variations": [
+              {
+                "value1": "",
+                "value2": "",
+                "discountType": 1,
+                "discountAmount": 0,
+                "image": [
+                  "public/product/-h49P-XPaDQ.jpg",
+                  "public/product/M349VdA2QLr.jpg",
+                  "public/product/kn21yRuWSN_.jpg",
+                  "public/product/hNWjpsgvjKs.jpg",
+                  "public/product/Sw_-pRaG-eO.jpg"
+                ],
+                "regularPrice": 1610,
+                "buyingPrice": 1610,
+                "maxPrice": 2254,
+                "minPrice": 1691,
+                "stock": 2,
+                "_id": "61e90711bca880fe5fa0fac8"
+              }
+            ],
+            "description": "<h1><a href=\"https://pristineshop.com.bd/product/yazole-yz353-brown-leather-black-dial-male-watch/#tab-description\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--colorPrimary,#212121);\"><strong>Description</strong></a> :</h1><p>Product Description</p><p>Product&nbsp;N353 Simple Dial Face Leather Straps Quartz Wrist WatchItem No.353Dial ColorBlack/whiteDial diameter42MMWeight42gWatch glassMineral glassCertificateCE</p>",
+            "thumbnail": "public/product/-h49P-XPaDQ.jpg",
+            "slug": "yazole-yz353-mustard-leather-white-dial-male-watch-C8SSF",
+            "sku": "00363"
+          },
+          {
+            "brand": {
+              "_id": "61e7dffabca880fe5fa0f9dc",
+              "name": "Yazole Watch",
+              "image": "public/brand/61e7dffabca880fe5fa0f9dc.jpg"
+            },
+            "price": 1855,
+            "buyingPrice": 1855,
+            "currentStock": 3,
+            "_id": "61e7e134bca880fe5fa0fa13",
+            "name": "Yazole YZ372 Blue Dial Black Strap Male Watch",
+            "variations": [
+              {
+                "value1": "",
+                "value2": "",
+                "discountType": 1,
+                "discountAmount": 0,
+                "image": [
+                  "public/product/TUCEhoi5q0m.jpg",
+                  "public/product/qvKABd34a3o.jpg",
+                  "public/product/q4d_JzpOWI1.jpg",
+                  "public/product/OlBDTuj2kOc.jpg",
+                  "public/product/2vl40Ar4Nu_.jpg"
+                ],
+                "regularPrice": 1855,
+                "buyingPrice": 1855,
+                "maxPrice": 2597,
+                "minPrice": 1948,
+                "stock": 3,
+                "_id": "61e906d5bca880fe5fa0fac7"
+              }
+            ],
+            "description": "<h1><strong>Products Description :</strong></h1><p>Product Name:</p><p>Yazole 444 Men’s Leather Watch Six-pin European And American Fashion Quartz Wrist Watches Water Proof</p><p>Item No:</p><p>yazole 444</p><p>Case Material:</p><p>alloy</p><p>Belt Material:</p><p>alloy</p><p>Dial Diameter:</p><p>40mm</p><p>Belt Width:</p><p>20mm</p><p>Belt Length:</p><p>24cm</p><p>Case Thickness:</p><p>8mm</p><p>Color:</p><p>6colors</p><p>Weight:</p><p>60g</p><p>Package:</p><p>1 pc 1 OPP bag+Bubble Bag+ Waterproof Carton</p><p>OEM ODM</p><p>500pcs For Unit Color</p>",
+            "thumbnail": "public/product/TUCEhoi5q0m.jpg",
+            "slug": "yazole-yz372-blue-dial-black-strap-male-watch-19xmz",
+            "sku": "00364"
+          },
+          {
+            "brand": {
+              "_id": "61e7dffabca880fe5fa0f9dc",
+              "name": "Yazole Watch",
+              "image": "public/brand/61e7dffabca880fe5fa0f9dc.jpg"
+            },
+            "price": 1610,
+            "buyingPrice": 1610,
+            "currentStock": 5,
+            "_id": "61e7e134bca880fe5fa0fa0f",
+            "name": "Yazole YCH0802 Brown Leather Black Dial Male Watch",
+            "variations": [
+              {
+                "value1": "",
+                "value2": "",
+                "discountType": 1,
+                "discountAmount": 0,
+                "image": [
+                  "public/product/hCUCRk-D_GV.jpg",
+                  "public/product/x5LFQs3mxf7.jpg"
+                ],
+                "regularPrice": 1610,
+                "buyingPrice": 1610,
+                "maxPrice": 2254,
+                "minPrice": 1691,
+                "stock": 1,
+                "_id": "61e9074ebca880fe5fa0fac9"
+              }
+            ],
+            "description": "<h1><strong>Description :</strong></h1><p>&nbsp;</p><p>&nbsp;</p><p>Yazole YCH0802 Brown Leather Black Dial Male Watch</p><p><strong>Watch</strong></p><p>The watch is good quality Watch, impressed with the design and look. The brand is reliable and stylish. A formal/semi-formal looking watch that is cheap and branded. A little expensive than skmei or laurels, but this is a more reliable and good brand.</p><p>&nbsp;</p><p>Yazole YCH0802 Brown Leather Black Dial Male Watch</p><p>Brand</p><p>SKMEI</p><p>Watch Type</p><p>Analouge</p><p>Strap Material</p><p>Leather</p><p>Warranty Policy EN</p><p>1 Year free service warranty on the movement of the watch.Warranty policy dose not cover damages resulting from batteries consume, misuse, accidents/physical damage , normal wear of strap and plating problems, color fading or unauthorized repairs.</p><p>Yazole YCH0802 Brown Leather Black Dial Male Watch</p><p>&nbsp;</p>",
+            "thumbnail": "public/product/hCUCRk-D_GV.jpg",
+            "slug": "yazole-ych0802-brown-leather-black-dial-male-watch-DRHJm",
+            "sku": "00362"
+          },
+          {
+            "brand": {
+              "_id": "61e7dffabca880fe5fa0f9dc",
+              "name": "Yazole Watch",
+              "image": "public/brand/61e7dffabca880fe5fa0f9dc.jpg"
+            },
+            "price": 1610,
+            "buyingPrice": 1610,
+            "currentStock": 5,
+            "_id": "61e7e134bca880fe5fa0fa0d",
+            "name": "Yazole YCH0802 Black Leather White Dial Male Watch",
+            "variations": [
+              {
+                "value1": "",
+                "value2": "",
+                "discountType": 1,
+                "discountAmount": 0,
+                "image": [
+                  "public/product/cX6nNB27YZi.jpg",
+                  "public/product/3k8MMHef2-a.jpg"
+                ],
+                "regularPrice": 1610,
+                "buyingPrice": 1610,
+                "maxPrice": 2254,
+                "minPrice": 1691,
+                "stock": 5,
+                "_id": "61e907afbca880fe5fa0faca"
+              }
+            ],
+            "description": "<h1><strong>Description :</strong></h1><p>&nbsp;</p><p>&nbsp;</p><p>Yazole YCH0802 Black Leather White Dial Male Watch</p><p><strong>Watch</strong></p><p>The watch is good quality Watch, impressed with the design and look. The brand is reliable and stylish. A formal/semi-formal looking watch that is cheap and branded. A little expensive than skmei or laurels, but this is a more reliable and good brand.</p><p>&nbsp;</p><p>Yazole YCH0802 Black Leather White Dial Male Watch</p><p>Brand</p><p>SKMEI</p><p>Watch Type</p><p>Analouge</p><p>Strap Material</p><p>Leather</p><p>Warranty Policy EN</p><p>1 Year free service warranty on the movement of the watch.Warranty policy dose not cover damages resulting from batteries consume, misuse, accidents/physical damage , normal wear of strap and plating problems, color fading or unauthorized repairs.</p><p>Yazole YCH0802 Black Leather White Dial Male Watch</p><p>&nbsp;</p>",
+            "thumbnail": "public/product/cX6nNB27YZi.jpg",
+            "slug": "yazole-ych0802-black-leather-white-dial-male-watch-zLWBV",
+            "sku": "00361"
+          }
+        ],
+        "slug": "/subcategory/male-watch"
+      }
+    ]
+  },
+  "success": true
+}

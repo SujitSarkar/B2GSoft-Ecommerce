@@ -1,0 +1,52 @@
+name: b2gsoft_ecommerce
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.2 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.0.1
+  http: ^0.13.4
+  pull_to_refresh: ^2.0.0
+  carousel_slider: ^4.1.1
+  flutter_polygon: ^0.3.0+2
+  flutter_html: ^2.2.1
+  cached_network_image: ^3.2.0
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/
+  #   - images/a_dot_ham.jpeg
+  # example:
+  fonts:
+    - family: balooDa2
+      fonts:
+        - asset: assets/font/BalooDa2.ttf
+    #       - asset: fonts/Schyler-Italic.ttf
+    #         style: italic
+    - family: kalpurush
+      fonts:
+        - asset: assets/font/kalpurush.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
