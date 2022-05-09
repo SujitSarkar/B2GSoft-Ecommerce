@@ -54,43 +54,14 @@ class ProductTile extends StatelessWidget {
                             text: TextSpan(
                               style: TextStyle(fontSize: wd*.048, color: Variables.primaryColor,fontWeight: FontWeight.bold),
                               children: <TextSpan>[
-                                TextSpan(text: 'মূল্য', style: TextStyle(fontSize: wd*.03, color: Colors.grey)),
+                                //TextSpan(text: 'price', style: TextStyle(fontSize: wd*.03, color: Colors.grey)),
                                 TextSpan(text: ' ৳${item.price}'),
                               ],
                             ),
                           ),
                         ),
-                        // if(item.charge!.discountCharge!=null)
-                        // Text('৳ ${item.charge!.discountCharge!}',textAlign: TextAlign.end, style: TextStyle(fontSize: wd*.038, color: Variables.primaryColor,decoration: TextDecoration.lineThrough))
                       ]
                   ),
-
-                  // Row(
-                  //     children: [
-                  //       RichText(
-                  //         textAlign: TextAlign.start,
-                  //         text: TextSpan(
-                  //           style: TextStyle(fontSize: wd*.035, color: Colors.grey),
-                  //           children: <TextSpan>[
-                  //             TextSpan(text: 'বিক্রয়', style: TextStyle(fontSize: wd*.025,fontWeight: FontWeight.bold)),
-                  //             TextSpan(text: ' ৳${item.charge!.sellingPrice??''}'),
-                  //           ],
-                  //         ),
-                  //       ),
-                  //       Expanded(
-                  //         child: RichText(
-                  //           textAlign: TextAlign.end,
-                  //           text: TextSpan(
-                  //             style: TextStyle(fontSize: wd*.035, color: Colors.grey),
-                  //             children: <TextSpan>[
-                  //               TextSpan(text: 'লাভ', style: TextStyle(fontSize: wd*.025,fontWeight: FontWeight.bold)),
-                  //               TextSpan(text: ' ৳${item.charge!.profit??''}'),
-                  //             ],
-                  //           ),
-                  //         ),
-                  //       ),
-                  //     ]
-                  // ),
                 ],
               ),
             ),
@@ -128,7 +99,7 @@ class ProductTile extends StatelessWidget {
                       ),
                     ),
 
-                    Text('${pc.cartCount}  পিস',style: TextStyle(color: Variables.primaryColor,fontWeight: FontWeight.bold,fontSize: wd*.04),),
+                    Text('${pc.cartCount}',style: TextStyle(color: Variables.primaryColor,fontWeight: FontWeight.bold,fontSize: wd*.04),),
 
                     InkWell(
                       onTap: (){
@@ -192,7 +163,7 @@ class ProductTile extends StatelessWidget {
                 color: Variables.secondaryColor,
                 borderRadius: BorderRadius.all(Radius.circular(8))
               ),
-              child: Text('স্টকে নেই',style: TextStyle(fontSize: wd*.04,color: Variables.primaryColor)),
+              child: Text('Stock out',style: TextStyle(fontSize: wd*.04,color: Variables.primaryColor)),
             ),
           )
         ],
